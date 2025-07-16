@@ -9,6 +9,11 @@ Designed with SweetFX 2.0 + ReShade. Something may need to be changed for it to 
 
 Downscales the output from the game, then upscales it again.
 
+This means that it cannot be used to speed up the game it is applied to - the game still runs at whatever resolution you set it to within the game's settings then this changes it after the fact.
+It can be used as an anti-aliasing shader.
+
+This project was more of an academic exercise for me to see if I could do it than something with a pracitcal application.
+
 ## Usage
 
 Prerequisites:
